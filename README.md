@@ -1,6 +1,6 @@
 # IoT-Data-Logger
 
-# Working Principle
+ Working Principle
 
 The IoT-based data logger employs an ESP32 Dev-Kit microcontroller interfaced with multiple sensors for real-time environmental data acquisition and transmission. The system components include the MQ-135 gas sensor, DHT11 temperature and humidity sensor, TEMT6000 light sensor, BMP180 pressure sensor, a Vero board with jumper cables for connectivity, and a stable power supply.  
 
